@@ -6,7 +6,7 @@ Two Sequence-to-Sequence DNN models for Summarizations using Pytorch
 Codes contain 
 1. Data Formatting (Using Pytorch objects : Field, TabularDataset, BucketIterator)
 2. Data Preprocessing
-3. Model Building (Element Stacking)
+3. Model Building (Stacking of Neural Net Components)
 4. Summarization of a new sentence
 
 ## Structure
@@ -14,6 +14,6 @@ Codes contain
 2. UDN_seq2attn : Sequence to Sequence GRU with Attention
 
 ## Notice
-They are performed on the UDN data, which is not publicly available.  
+They are performed on the UDN data, which is not publicly available.
 However, the data preprocessing procedure and model structure and be applied to any text data.
 
