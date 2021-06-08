@@ -1,5 +1,5 @@
 # Seq2Seq-Seq2Seq-w.-Attention-Summarization-2020
-Two Sequence-to-Sequence DNN models for Summarizations using Pytorch
+Two Sequence-to-Sequence DNN models for Summarizations using Pytorch.
 
 ## Introduction
 
